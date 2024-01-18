@@ -2,3 +2,5 @@ streamlit
 matplotlib
 pandas
 statsmodels
+plotly
+seaborn
